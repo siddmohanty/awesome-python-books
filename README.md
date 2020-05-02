@@ -3,6 +3,7 @@
 > Directory of Python books
 
 ## Table of Contents
+- [Python Notes](#notes)
 - [Grammar](#grammar)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Game Development](#game-development)
@@ -17,6 +18,10 @@
 - [Testing](#testing)
 - [Web Development](#web-development)
 - [Web Scraping](#web-scraping)
+
+## Python Notes
+
+- *Python® Notes for Professionals book* (https://goalkicker.com/PythonBook/)
 
 ## Grammar
 
