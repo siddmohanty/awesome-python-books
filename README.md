@@ -21,7 +21,7 @@
 
 ## Python Notes
 
-- *Python® Notes for Professionals book* (https://goalkicker.com/PythonBook/)
+- *Python® Notes for Professionals book* [Notes for Professionals book](https://goalkicker.com/PythonBook/)
 
 ## Grammar
 
